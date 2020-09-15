@@ -113,7 +113,7 @@ def end():
 
 # 7: Functions to be called upon to initiate the chatbot 
 def chat_bot(): 
-   greet('Aid', '2020')  # change it as you need
+   greet('Alan Carr', '2020')  # change it as you need
    remind_name()
    guess_age()
    count()
